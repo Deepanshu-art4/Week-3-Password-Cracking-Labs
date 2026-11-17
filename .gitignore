@@ -1,0 +1,20 @@
+
+# Sensitive lab files
+*.pdf
+*.hash
+hash*.txt
+
+# Downloaded archives
+*.zip
+*.7z
+*.rar
+
+# Password recovery output
+*.pot
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+Thumbs.db
+Desktop.ini
